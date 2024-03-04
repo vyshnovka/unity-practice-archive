@@ -1,5 +1,20 @@
 # Unity Practice Archive
- Archive of my Unity learning journey projects rom the very beginning.
+ Archive of my Unity learning journey projects from the very beginning.
+
+ ## Content
+
+ Projects are sorted strictly chronologically, *NOT* by quality from worst to best. Some might be embarrassing to look at, but what can we do?
+
+ ### 1. Helix Jump
+ The very first project is a simplified clone of the Helix Jump game.    
+ The clone's gameplay is very similar to the original game, but some mechanics have been excluded. That's why it is called a *simplified* clone. 
+ Levels are generated randomly. User's progress is saved using PlayerPrefs.
+
+ ### 2. Cube Surfer
+ One more simplified clone of an existing game. The idea was to recreate cube stacking mechanics from the original Cube Surfer. The path spline was created using the *Dreamteck Splines* plugin from Unity Asset Store. Do not expect any path randomizations. This is just an example of mechanics.
+
+ ### 3. Bike Rush
+ This clone does not even have an actual gameplay. Roughly speaking, this is a small module with the possibility of its implementation in a larger project. Don't judge strictly, as this is just an example of the most basic AI bot behavior.
 
  ## Tools
 
