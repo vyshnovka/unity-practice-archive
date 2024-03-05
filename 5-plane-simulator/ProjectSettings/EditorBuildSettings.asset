@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Hangar.unity
+    guid: fda0944e5a74245cea7ba060c34374d3
+  - enabled: 1
+    path: Assets/Scenes/Plane.unity
+    guid: 23ef22319f7004632a5e5323b8da0cce
+  m_configObjects: {}
