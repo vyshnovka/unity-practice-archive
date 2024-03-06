@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c24e8f18a506245bf9dcb5e814777cf5, type: 3}
+  m_Name: RecipeSoup
+  m_EditorClassIdentifier: 
+  recipeName: Soup
+  beautifulFood: {fileID: 3887584395787641020, guid: c9d85309355a845a4a873231d95b1b1b, type: 3}
+  recipeContent:
+  - product: 2
+    state: 3
+  - product: 4
+    state: 3
+  recipePrice: 15
