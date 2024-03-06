@@ -19,7 +19,7 @@
  Solar System is not even a full-fledged project, but rather an attempt to reming myself how Unity works. The planets are beautifully spinning, that’s all.
 
  ### 5. Plane Simulator
- IMHO, the nastiest kind of controllers are those designed for non-four-wheelers. So here it is - a realistic plane simulator. This is the first project that includes something more that _JUST ONE_ gameplay mechanic. It has a shop to buy, select and paint different kinds of planes.
+ IMHO, the nastiest kind of controllers are those designed for non-four-wheelers. So here it is - a realistic plane simulator. This is the first project that includes something more than _JUST ONE_ gameplay mechanic. It has a shop to buy, select and paint different kinds of planes.
 
  ### 6. Coin Snake
  I used to be really proud of this project at a time. I still think it looks nice, just not the code-wise. The main idea is a controller for a "snake" made of coins, where each next coin should smoothly follow the path of the previous one. The game has a starting menu, 5 different manually-made levels with lots of obstacles and even a victory screen. Probably my favourite early-phase project.
