@@ -10,10 +10,10 @@
  The clone's gameplay is very similar to the original game, but some mechanics have been excluded. That's why it is called a *simplified* clone. Levels are generated randomly, user's progress is saved using PlayerPrefs.
 
  ### 2. Cube Surfer
- One more simplified clone of an existing game. The idea was to recreate cube stacking mechanics from the original Cube Surfer. The path spline was created using the *Dreamteck Splines* plugin from Unity Asset Store. Do not expect any path randomizations. This is just an example of mechanics.
+ One more simplified clone of an existing game. The idea was to recreate cube stacking mechanics from the original Cube Surfer. The path spline was created using the [Dreamteck Splines](https://assetstore.unity.com/packages/tools/utilities/dreamteck-splines-61926) plugin from Unity Asset Store. Do not expect any path randomizations. This is just an example of mechanics.
 
  ### 3. Bike Rush
- This clone does not even have an actual gameplay. Roughly speaking, this is a small module with the possibility of its implementation in a larger project. Don't judge strictly, as it is just an example of the most basic AI bot behavior. But actually DO judge, this is a disaster.
+ This clone does not even have an actual gameplay. Roughly speaking, this is a small module with the possibility of its implementation in a larger project. Don't judge strictly, as it is just an example of the most basic AI bot behavior. But actually *DO* judge, this is a disaster.
 
  ### 4. Solar System
  Solar System is not even a full-fledged project, but rather an attempt to reming myself how Unity works. The planets are beautifully spinning, that’s all.
