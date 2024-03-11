@@ -16,7 +16,7 @@
  This clone does not even have an actual gameplay. Roughly speaking, this is a small module with the possibility of its implementation in a larger project. Don't judge strictly, as it is just an example of the most basic AI bot behavior. But actually *DO* judge, this is a disaster.
 
  ### 4. Solar System
- Solar System is not even a full-fledged project, but rather an attempt to reming myself how Unity works. The planets are beautifully spinning, that’s all.
+ Solar System is not even a full-fledged project, but rather an attempt to remind myself how Unity works. The planets are beautifully spinning, that’s all.
 
  ### 5. Plane Simulator
  IMHO, the nastiest kind of controllers are those designed for non-four-wheelers. So here it is - a realistic plane simulator. This is the first project that includes something more than _JUST ONE_ gameplay mechanic. It has a shop to buy, select and paint different kinds of planes.
